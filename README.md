@@ -1,7 +1,7 @@
 # Gravity-Jumper
-
+Durante sua jornada, o astronauta deve enfrentar uma série de desafios, saltando habilmente sobre as rochas e esquivando-se dos ataques dos extraterrestres. Cada encontro é uma batalha de astúcia e habilidade, onde o jogador deve usar estratégias inteligentes para sobreviver e progredir.
 ## Participantes:
-X , X
+Alycia Montardo e Mirieli Oliveira
 
 ## Prints:
 ![Capturar1](https://github.com/user-attachments/assets/3945286c-2d6b-4ea7-8185-59293d71f9b5)
